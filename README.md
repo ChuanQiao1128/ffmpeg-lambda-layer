@@ -1,3 +1,9 @@
+qc@CHUANdeMacBook-Pro aws-ffmpeg-lambda-layer-main % export AWS_PROFILE=my-sso-admin
+qc@CHUANdeMacBook-Pro aws-ffmpeg-lambda-layer-main % make build      
+qc@CHUANdeMacBook-Pro aws-ffmpeg-lambda-layer-main % make deploy AWS_REGION=ap-southeast-2 STACK_NAME=ffmpeg-lambda-layer
+
+______________👇 result_____________________
+
 CloudFormation outputs from deployed stack
 -------------------------------------------------------------------------------------------------------------------------
 Outputs                                                                                                                 
