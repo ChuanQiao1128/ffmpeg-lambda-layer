@@ -1,3 +1,14 @@
+CloudFormation outputs from deployed stack
+-------------------------------------------------------------------------------------------------------------------------
+Outputs                                                                                                                 
+-------------------------------------------------------------------------------------------------------------------------
+Key                 LayerVersion                                                                                        
+Description         Layer ARN Reference                                                                                 
+Value               arn:aws:lambda:ap-southeast-2:396913716742:layer:ffmpeg-lambda-layer:1                              
+-------------------------------------------------------------------------------------------------------------------------
+Successfully created/updated stack - ffmpeg-lambda-layer in ap-southeast-2
+
+
 <p align='center'> <img src="https://user-images.githubusercontent.com/4580975/275339760-e9e95dcd-afd5-4ed0-9d3f-f739bd9e9a4a.jpg"/></p>
 
 <h1  align='center'>FFmpeg/FFprobe AWS Lambda Layer<br>(Based on Amazon Linux 2)</h1>
